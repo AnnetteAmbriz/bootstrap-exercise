@@ -1,0 +1,20 @@
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#bs-example-navbar-collapse-1 {
+    background-color: #B2C254;
+}
+
+#brand {
+    color: black;
+    padding-left: 27px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
